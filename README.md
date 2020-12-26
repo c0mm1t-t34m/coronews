@@ -7,7 +7,7 @@ Very Very Simple Mobile App With Ionic 5 About CoronaVirus News (Education Purpo
 3°) Move them to the project you created <br>
 4°) Launch the app ! <br>
 
-<em>You are free to update and use the app as you want...</em>
+<em>You are free to update and use the app as you want.</em>
 
 # Authors :
 Coder : @C0MM1T-L34D3R <br>
